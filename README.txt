@@ -1,18 +1,13 @@
-SERTIVA ARAÇ KİRALAMA - ÜCRETSİZ WEB SİTESİ
+SERTIVA ARAÇ KİRALAMA - WEB SİTESİ
 
-Dosyalar:
-- index.html: Ana site
-- style.css: Tasarım
-- logo.png: Sertiva logosu
-- robots.txt: Arama motoru tarama ayarı
-- sitemap.xml: Google için site haritası (yayın adresi eklenmeli)
+Güncellenen içerik:
+- Daha sade, okunaklı ve profesyonel açık renk tasarım
+- Konfor ve SUV/Genis araç bölümleri kaldırıldı
+- Renault Taliant eklendi
+- Hyundai i20 eklendi
+- Araç görselleri eklendi
+- Telefon, WhatsApp ve Instagram bağlantıları korunuyor
+- SEO başlıkları, açıklama ve yapılandırılmış veri korunuyor
 
-Ücretsiz yayın:
-GitHub Pages ile ücretsiz yayınlanabilir. Siteyi GitHub'a yükleyip Settings > Pages bölümünden yayın kaynağını seçin.
-
-ÖNEMLİ:
-1. Yayın adresiniz belli olduğunda sitemap.xml içindeki YOUR-SITE-URL alanını gerçek adresle değiştirin.
-2. Google Search Console'da siteyi doğrulayıp sitemap.xml adresini gönderin.
-3. Filodaki gerçek araç fotoğrafları, modeller, fiyatlar, adres ve çalışma saatleri verilirse site bunlarla güncellenebilir.
-4. Instagram hesabı: @sertkanautofilo
-5. Telefon/WhatsApp: 0552 403 52 68
+Telefon/WhatsApp: 0552 403 52 68
+Instagram: @sertkanautofilo
